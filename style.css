@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("images\bg.png");
+   
+}
+  
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+p {
+    color: #FFFAF0;
+}
+
+input {
+    padding: 8px;
+    margin-top: 10px;
+}
+
+button {
+    padding: 8px;
+    margin-top: 10px;
+    cursor: pointer;
+}
